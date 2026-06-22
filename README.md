@@ -10,7 +10,7 @@
 
 | 简称代号              | 发表信息   | 核心领域     | 精读笔记                                                      |
 | --------------------- | ---------- | ------------ | ------------------------------------------------------------- |
-| Croitoru23-DiffSurvey | TPAMI 2023 | 视觉扩散模型 | [Notes\Croitoru23-DiffSurvey](Notes\Croitoru23-DiffSurvey.md) |
+| Croitoru23-DiffSurvey | TPAMI 2023 | 视觉扩散模型 | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md) |
 
 ## 研究类论文阅读
 
