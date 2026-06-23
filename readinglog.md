@@ -9,3 +9,4 @@
 ## 2026/6/23
 
 - A Survey on Generative Diffusion Models（精读）
+- Text-to-image Diffusion Models in Generative AI: A Survey（精读）
