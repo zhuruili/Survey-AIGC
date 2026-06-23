@@ -8,9 +8,10 @@
 
 自己动笔之前首先要弄明白综述该怎么写，找几篇已有的综述看一下，着重看文章的结构安排、行文脉络等，而不是综述的内容本身
 
-| 简称代号              | 发表信息   | 核心领域     | 精读笔记                                                      |
-| --------------------- | ---------- | ------------ | ------------------------------------------------------------- |
-| Croitoru23-DiffSurvey | TPAMI 2023 | 视觉扩散模型 | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md) |
+| 简称代号              | 发表信息   | 核心领域                   | 精读笔记                                                      |
+| --------------------- | ---------- | -------------------------- | ------------------------------------------------------------- |
+| Croitoru23-DiffSurvey | TPAMI 2023 | 视觉扩散模型               | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md) |
+| Cao24-DiffusionSurvey | TKDE 2024  | 扩散理论、算法优化、应用） | [Notes/Cao24-DiffusionSurvey](Notes/Cao24-DiffusionSurvey.md) |
 
 ## 研究类论文阅读
 
