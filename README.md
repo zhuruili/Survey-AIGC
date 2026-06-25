@@ -8,11 +8,12 @@
 
 自己动笔之前首先要弄明白综述该怎么写，找几篇已有的综述看一下，着重看文章的结构安排、行文脉络等，而不是综述的内容本身
 
-| 简称代号              | 发表信息   | 核心领域                 | 笔记                                                          |
-| --------------------- | ---------- | ------------------------ | ------------------------------------------------------------- |
-| Croitoru23-DiffSurvey | TPAMI 2023 | 视觉扩散模型             | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md) |
-| Cao24-DiffusionSurvey | TKDE 2024  | 扩散理论、算法优化、应用 | [Notes/Cao24-DiffusionSurvey](Notes/Cao24-DiffusionSurvey.md) |
-| Zhang24-T2IDiffSurvey | Arxiv 2024 | 文生图扩散模型           | [Notes/Zhang24-T2IDiffSurvey](Notes/Zhang24-T2IDiffSurvey.md) |
+| 简称代号               | 发表信息   | 核心领域                 | 笔记                                                            |
+| ---------------------- | ---------- | ------------------------ | --------------------------------------------------------------- |
+| Croitoru23-DiffSurvey  | TPAMI 2023 | 视觉扩散模型             | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md)   |
+| Cao24-DiffusionSurvey  | TKDE 2024  | 扩散理论、算法优化、应用 | [Notes/Cao24-DiffusionSurvey](Notes/Cao24-DiffusionSurvey.md)   |
+| Zhang24-T2IDiffSurvey  | Arxiv 2024 | 文生图扩散模型           | [Notes/Zhang24-T2IDiffSurvey](Notes/Zhang24-T2IDiffSurvey.md)   |
+| Wang25-VideoDiffSurvey | TMLR 2025  | 扩散视频生成             | [Notes/Wang25-VideoDiffSurvey](Notes/Wang25-VideoDiffSurvey.md) |
 
 > [!Note]
 > 表中发表信息为`Arxiv`则代表阅读时该论文并没有正式发表信息，而是以预印本形式存在
