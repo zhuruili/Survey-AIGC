@@ -15,3 +15,4 @@
 ## 2026/6/25
 
 - Survey of Video Diffusion Models: Foundations, Implementations, and Applications
+- Controllable Generation with Text-to-Image Diffusion Models: A Survey
