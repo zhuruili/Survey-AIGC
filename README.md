@@ -15,6 +15,7 @@
 | Zhang24-T2IDiffSurvey  | Arxiv 2024 | 文生图扩散模型           | [Notes/Zhang24-T2IDiffSurvey](Notes/Zhang24-T2IDiffSurvey.md)   |
 | Wang25-VideoDiffSurvey | TMLR 2025  | 扩散视频生成             | [Notes/Wang25-VideoDiffSurvey](Notes/Wang25-VideoDiffSurvey.md) |
 | Cao25-T2ICtrlSurvey    | TPAMI 2025 | 文生图扩散可控生成       | [Notes/Cao25-T2ICtrlSurvey](Notes/Cao25-T2ICtrlSurvey.md)       |
+| Ma25-CtrlVideoSurvey   | Arxiv 2025 | 可控视频生成             | [Notes/Ma25-CtrlVideoSurvey](Notes/Ma25-CtrlVideoSurvey.md)     |
 
 > [!Note]
 > 表中发表信息为`Arxiv`则代表阅读时该论文并没有正式发表信息，而是以预印本形式存在

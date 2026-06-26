@@ -1,6 +1,7 @@
 # Note: Cao25-T2ICtrlSurvey
 
 论文全名：Controllable Generation with Text-to-Image Diffusion Models: A Survey
+
 译文参考：[TPAMI 2025 | 基于文生图扩散模型的可控生成：综述](https://zhuanlan.zhihu.com/p/1992894155656040595)
 
 ## 写作动机
