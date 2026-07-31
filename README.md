@@ -13,6 +13,7 @@
 | Croitoru23-DiffSurvey  | TPAMI 2023 | 视觉扩散模型             | [Notes/Croitoru23-DiffSurvey](Notes/Croitoru23-DiffSurvey.md)   |
 | Cao24-DiffusionSurvey  | TKDE 2024  | 扩散理论、算法优化、应用 | [Notes/Cao24-DiffusionSurvey](Notes/Cao24-DiffusionSurvey.md)   |
 | Zhang24-T2IDiffSurvey  | Arxiv 2024 | 文生图扩散模型           | [Notes/Zhang24-T2IDiffSurvey](Notes/Zhang24-T2IDiffSurvey.md)   |
+| Jia24-HumanGenSurvey   | CSUR 2024  | 人像可控生成             | [Notes/Jia24-HumanGenSurvey](Notes/Jia24-HumanGenSurvey.md)     |
 | Wang25-VideoDiffSurvey | TMLR 2025  | 扩散视频生成             | [Notes/Wang25-VideoDiffSurvey](Notes/Wang25-VideoDiffSurvey.md) |
 | Cao25-T2ICtrlSurvey    | TPAMI 2025 | 文生图扩散可控生成       | [Notes/Cao25-T2ICtrlSurvey](Notes/Cao25-T2ICtrlSurvey.md)       |
 | Ma25-CtrlVideoSurvey   | Arxiv 2025 | 可控视频生成             | [Notes/Ma25-CtrlVideoSurvey](Notes/Ma25-CtrlVideoSurvey.md)     |

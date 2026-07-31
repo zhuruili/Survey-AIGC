@@ -20,3 +20,7 @@
 ## 2026/6/26
 
 - Controllable Video Generation: A Survey
+
+## 2026/7/31
+
+- Human Image Generation: A Comprehensive Survey
